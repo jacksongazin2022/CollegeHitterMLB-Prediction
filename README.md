@@ -32,7 +32,7 @@ Future research could explore alternative methods of data augmentation and the i
 The authors extend their gratitude to Dr. Natalia Khuri for her invaluable feedback and comments. Additionally, the authors used ChatGPT for spelling checks of the document.
 
 ## Data and Code Availability
-All data and code used in this study are available on [GitHub]([https://github.com/](https://github.com/jacksongazin2022/CollegeHitterMLB-Prediction/tree/main)).
+All data and code used in this study are available on [GitHub](https://github.com/jacksongazin2022/CollegeHitterMLB-Prediction/tree/main).
 
 ## References
 - Baumer, B. S., & Albert, J. (2018). Analyzing Baseball Data with R. Chapman and Hall/CRC.
